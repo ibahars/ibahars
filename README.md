@@ -52,8 +52,3 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baharrisikli@gmail.com)
 
 ---
-
-### 📈 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibahars&show_icons=true&theme=vibrant&hide_border=true" />
-</p>

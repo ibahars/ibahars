@@ -55,5 +55,5 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vibrant&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibahars&show_icons=true&theme=vibrant&hide_border=true" />
 </p>

@@ -7,22 +7,6 @@ I am a passionate developer focused on building scalable web and mobile applicat
 
 ### Technologies & Tools
 
-Tamamen katılıyorum Bahar, o köşeli for-the-badge stili bazen çok kaba ve demode durabiliyor. Senin aradığın o "modern, yumuşak ve şık" estetiği yakalamak için Shield.io'nun en popüler ve modern stili olan style=flat-square stilini kullanmamız gerekiyor. Bu stil, köşeleri hafifçe yumuşatır ve daha "minimalist" bir görünüm sağlar.
-
-Ayrıca, rozetlerin genişliklerini de daha dengeli hale getirebilmek için bir hizalama hilesi ekledim.
-
-İşte tam da istediğin gibi, köşeleri daha yumuşak ve şık duran son ve bitmiş hal:
-
-Markdown
-# Hi there, I'm Bahar 👋
-
-### Junior Software Developer | Technical Team Lead at GDG on Campus Marmara University
-I am a passionate developer focused on building scalable web and mobile applications. Currently a CEIT student at Marmara University, I enjoy bridging the gap between instructional technology and modern software development.
-
----
-
-### 🛠 Technologies & Tools
-
 ####  Programming Languages
 <p align="left">
   <imgsrc="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"alt="TypeScript"/>&nbsp;&nbsp;

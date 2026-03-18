@@ -43,6 +43,19 @@ I am a passionate developer focused on building scalable web and mobile applicat
 </p>
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibahars&show_icons=true&theme=tokyonight&count_private=true" alt="Bahar's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibahars&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Most Used Languages" height="192px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibahars&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 
 ### 🌟 Let's Connect!
 
